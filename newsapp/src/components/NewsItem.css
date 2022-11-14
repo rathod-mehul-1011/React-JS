@@ -1,0 +1,9 @@
+.qr-container {
+    background: white;
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    z-index: 999;
+    right: 0px;
+    bottom: 223px;
+}
